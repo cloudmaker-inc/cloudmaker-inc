@@ -14,7 +14,7 @@
 public class DeveloperLife
 {
    string Role => 
-   "Lead Developer @ HCL Technologies"
+   "Senior Developer @ AP Moller - Maersk"
    
    IList<string> Backend => 
    { "C#", ".NET 4.5+", ".NET Core 2.x+", ".NET 5", ".NET WebAPI", "PowerShell" }
